@@ -1,0 +1,76 @@
+# **DECOMPOSIÇÃO**
+
+Dado um problemas complexo, devemos quebra-lo em problemas menores.  Portanto, problemas mais fáceis e gerenciáveis.
+
+- **Estratégia** - processo de quebrar e determinar partes menores e gerenciáveis. **(ANALISE)**
+
+> **_*estudar, explorar*_ **        
+>
+> **_*realizar exame detalhado*_**   
+>
+> **_*decompor em elementos constituintes*_**
+
+  
+
+* **Como decompor?**
+
+> **identificar ou coletar dados**
+>
+> **agregar os dados**
+>
+> **funcionalidade**
+
+**Exemplo: _movimentos de um avatar_ (_DECOMPOSIÇÃO_)**	
+
+​                                                           
+
+|      | AÇÕES |
+| ---- | ----- |
+
+
+| **PADRÃO** | MOVIMENTO |
+| :--------: | :-------: |
+
+|           VIRAR           |       MOVER        | ANDAR             | CORRER            | SENTAR            | LEVANTAR          |
+| :-----------------------: | :----------------: | ----------------- | ----------------- | ----------------- | ----------------- |
+| **_DIREITA /  ESQUERDA_** | **_CIMA / BAIXO_** | **_MOVER PERNA_** | **_MOVER PERNA_** | **_MOVER PERNA_** | **_MOVER PERNA_** |
+
+
+
+* **PADRÕES**
+
+_Reconhecimento de padrões_
+
+Por que determinar padrões? Generalizar com objetivo de obter resolução para problemas diferentes.
+
+**_Métodos_**                                                                          **_Aplicações_**                                                                             					                                                                     **_Classificação de dados_**                                                                               			                                                                             **_Reconhecimento de imagem_**                                                                           	                                                                                     **_Reconhecimento de fala_**                                                                                               	                                                                                     **_Analise de cenas_**                                                                                    	                                                                                     **_Classificação de documentos_**
+
+* ***ABSTRATAÇÃO***
+
+-- _Abstrair_; observar um ou mais elementos, avaliando características e propriedades em separado
+
+-- _Abstração_; processo intelectual de isolamento de um objeto da realidade
+
+-- _generalizar_; tornar geral, mais amplo, extensão
+
+
+
+* ***GENERALIZAR*** - _na lógica, é a operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenômenos similares._
+
+
+
+***Como classificar os dados?***                                                                                                                                                   - características                                                                                                                                                                                  - pontos essenciais                                                                                                                                                                                     - generalizar x detalhar
+
+***Representação de Dados***                                                                                                                                                                          - *Características*       
+
+| **PONTOS ESSENCIAIS** | **DETALHES**       |
+| --------------------- | ------------------ |
+| Nome Completo         | Trabalho           |
+| Matrícula             | Tem filhos?        |
+| Endereço              | Programa Preferido |
+| Campus                | ...                |
+| Telefone              |                    |
+
+
+
+​                     																																		

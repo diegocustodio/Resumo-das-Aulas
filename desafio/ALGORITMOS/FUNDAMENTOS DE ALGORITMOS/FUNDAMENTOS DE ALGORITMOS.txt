@@ -1,0 +1,68 @@
+#                **_FUNDAMENTOS DE ALGORITMOS_** 
+
+_Serão apresentados os conceitos básicos para o correto entendimento de algoritmos. Esses conceitos como, variáveis, tipos de dados, instruções, condições, entre outros temas relacionados._
+
+**PASSO A PASSO**
+
+1. Tipologia e variáveis
+2. instruções primitivas
+3. Estruturas condicionais e operadores
+4. Estruturas de repetição
+5. Vetores e matrizes
+6. O que são funções
+7. Instruções de entrada/saída
+
+****
+
+**TIPOLOGIA E VARIÁVEIS**
+
+​                                                                     _Qual a função do computador?_                                                 				 		                                                                     **INFORMAÇÃO**                                                                                     		                                **DADOS**---------------------------|------------------------**INSTRUÇÕES**                                                                       	                                          | _tratados e processados (numéricos/caracteres/lógicos)_
+
+**Tipos numéricos (primitivo)**                                                                                                                                               Inteiros 0, 1, 5, 50, 60 800, ... -58, -50, -49, -32, -10, -5                                                                                                        Reais 5, 95, 9.54, -8.8,-0.555 ...
+
+**CARACTÉRES**                                                                                                                                                                     _Caracter_ **? A 1 P 10 2 k # ! S e**
+
+**LÓGICO**                                        **BOOLEANO**                                                                                                                                                                                 _VERDADEIRO_ - 1                            **VERDADEIRO   .V ou .S**                                                                                                                                        _FALSO_            - 0                            **FALSO                . F ou .N**                                                                                      				                                       **PORTUGUÊS ESTRUTURADO**
+
+**VARIÁVEL** 																											                                                                           _O que é uma variável ?_ 																																			**mutável**                                                                                                                                                                                 **possui variações**                                                                                                                                                                                       **incerto** **inconstante**                                                                                                                                                        **instável** 
+
+**_VARIÁVEL_** pode assumir qualquer um dos valores de um determinado conjunto de valores.                                         		                                                 **_A - B = D_**                      **_A + B = C_**
+
+**REGRAS**
+
+* _ATRIBUIÇÃO DE UM OU MAIS CARACTERES;_
+* PRIMEIRO LETRA - NÃO NÚMERO;
+* SEM ESPAÇOS EM BRANCO;
+* VEDADO;
+* UTILIZAÇÃO DE PALAVRAS RESERVADAS;
+* CARACTERES E NÚMEROS.
+
+
+
+   **PAPÉIS DE UMA VARIÁVEL**            - _AÇÃO_     **MODIFICAÇÃO DE ESTADO**                                                                                                           								                                - _CONTROLE_      **VIGIADA, CONTROLE**
+
+**INALTERÁVEL, O QUE NÃO MUDA, INVARIÁVEL**  (**DEFINIÇÃO - _tudo aquilo que é fixo ou estável_**)
+
+
+
+**INSTRUÇÕES PRIMITIVAS**                                                                                                                                                          		                                   Calculo matemático      -      Operadores													                           	                                                  Variável                            Binário                                                                                             													  Constantes					  Unário 
+
+**Instruções** são linguagem de **palavras - chave** (vocabulário) de uma determinada programação que tem por finalidade comandar um computador que irá **tratar os dados**.
+
+
+
+**LINGUAGEMS DE PROGRAMAÇÃO**                                                                                                                                 _NOTAÇÃO_                        **JANELA**                                                                                                                                                   _OPERAÇÃO_                      **WINDOW**                                                                                                                                             		                                 **VENTANA**
+
+**OUTROS CONCEITOS** - _ENTRADA, PROCESSMENTO E SAÍDA_                                                                                  **EXEMPLO: MÉDIA ESCOLAR**
+
+_**INICÍO PROGRAMA**                                                                                                                                                                         **NOTA 1 = 5**                                                                                                                                                                              **NOTA = 8**                                                                                                                                                                                                     **RESULTADO = 0**                                                                                                                                                                                            **RESULTADO = (NOTA1 + NOTA2)/2**                                                                                                                                                           **ESCREVER RESULTADO**                                                                                                                                                                               **FIM PROGRAMA**                                                                                                                                                                           **SAÍDA =      6.5**_
+
+
+
+**ESCRITURA CONDICIONAL** - Estado de uma pessoa ou coisa ---> **condição**
+
+​                                                   Que expressão uma condição ou suposição                                         **CONDICIONAL** |                                                                                                                                                                         	                                               Contém ou implica uma situação ou hipótese
+
+Condição (inverdade) - Exceção                                                                                                                                                   	   |                                                                                                                                                                                        Operação (satisfeita)
+
+ **SIMPLES**                                         **COMPOSTA**                                              **ENCADEADA** 			      			 Condição                                         Composição --> Exceção                           Condição --> Condição --> Exceção      Operação                                        Operação                                                     Operação     Operação
